@@ -13,3 +13,8 @@ Comme dit précédemment, ces données peuvent être utilisées de différentes 
 La visualisation de données que j'imagine avec ce dataset serait de raconter une histoire avec les graphes. Une des histoires à laquelle je pense est la dispute du titre de champion du monde pilotes qu'ont mené Max Verstappen et Lewis Hamilton jusqu'au dernier tour du dernier GP de la saison 2021. Il serait intéressant d'utiliser des graphes animés et intéractifs afin de montrer l'évolution des deux pilotes, de leurs coéquipiers ou tout simplement de leurs performances au long de cette saison. Ici, le but ne serait pas tellement d'analyser mais d'expliquer et de raconter aux utilisateurs ces histoires.
 
 Les données de ce dataset ont été utilisées par un grand nombre de personnes dont certains des projets sont repertoriés sur la page http://ergast.com/mrd/gallery/. Nous pouvons y retrouver de nombreuses applications mobile IOS et Android dont des calendriers de courses ou des statistiques de pilotes mais également un grand nombre de sites de visualisations de données, des bots Discord et des algorithmes de prédiction de courses. Tous ces exemples montrent la flexibilité et la liberté créative que permet ce dataset. 
+
+**Wireframe**
+
+Version avec les commentaires : https://www.figma.com/file/nQxzskdc23u7YWj9ihpZ8q/VisualDon-wireframe-projet?node-id=1-6&t=eJ3XLfjl5v9k9q4B-0
+![Wireframe du projet ](https://github.com/RicoDelgad0/VisualDon-Projet-Formula_One/blob/main/VisualDon-Projet-Wireframe.jpg?raw=true)
